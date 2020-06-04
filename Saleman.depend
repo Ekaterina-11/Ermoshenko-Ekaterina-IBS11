@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1590751207 source:c:\users\путник\desktop\saleman\saleman.cpp
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	"Way.h"
+	"Shop.h"
+	"Store.h"
+
+1590751051 c:\users\путник\desktop\saleman\way.h
+	<vector>
+	<cmath>
+	"Point.h"
+	"Shop.h"
+	"Store.h"
+	"Line.h"
+
+1590750927 c:\users\путник\desktop\saleman\point.h
+
+1591227894 c:\users\путник\desktop\saleman\shop.h
+
+1591227894 c:\users\путник\desktop\saleman\store.h
+
+1591227894 c:\users\путник\desktop\saleman\line.h
+
+1591227836 source:c:\users\путник\desktop\saleman\saleman2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	"Way.h"
+
